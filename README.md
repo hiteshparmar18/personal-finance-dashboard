@@ -44,7 +44,7 @@ Great as a **personal tool** + awesome **portfolio project** for Data & Finance 
 
 ## 🚀 Live Demo:
 
-[▶ Watch Demo Video](https://drive.google.com/file/d/1-YUbPAHRauNTMRC52W3yK_H_R2RWMwCG/view?usp=drive_link)
+[▶ Watch Demo Video](https://drive.google.com/file/d/1YPVUx_CjGUv2c_GGbCCIoBhnZxlhstQs/view?usp=drive_link)
 ---
 
 ## 🛠️ Tech Stack
@@ -103,3 +103,4 @@ Feel free to fork this repo, suggest features, or raise issues.
 ## 📧 Contact
 
 Made by Hitesh Parmar · Reach out on [LinkedIn](https://www.linkedin.com/in/hiteshparmar18/)
+
